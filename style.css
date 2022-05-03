@@ -1,0 +1,124 @@
+
+*{
+    margin: 0px;
+padding:0px;
+}
+.background_main{
+    background-image:url('images/banner.jpg');
+    height: 600px;
+    max-width: 100%;
+}
+.nav ul li{
+    display: inline-block;
+    padding-right: 20px;
+}
+.mainimglogo{
+    max-width: 80px;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
+.nav ul{
+    margin-top: 40px;
+    margin-left: 185px;
+}
+.nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+a .cessumadj{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 42px;
+    
+}
+.mainlogosec{
+    display: flex;
+    text-decoration: none;
+    
+}
+.collapse_img{
+    background-image: url('images/banner_cr0ssbottom.png');
+    height: 387px;
+   margin-top: 140px;
+
+}
+.topimg{
+    margin-top: -100px;
+    max-width: 450px;
+    align-items: right;
+    
+}
+.house{
+    color:lightgreen
+
+}
+.future{
+    color: #fff;
+    font-size: 60px;
+}
+.paragraph{
+    color: white;
+
+}
+.contact_btn{
+    color: #fff;
+    background-color: lightgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-sizing: border-box;
+    margin-top: 80px;
+}
+.btn1{
+    background-color: lightgreen;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 100px;
+}
+.btn2{
+    background-color: lightgreen;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 100px;
+}
+.home1{
+    margin-top: 50px;
+    max-width: 80%;
+
+
+}
+
+.homedescription{
+    margin-top: 100px;
+    max-width: 50%;
+}
+
+.readmore_btn{
+    color: #fff;
+    background-color: lightgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-sizing: border-box;
+    margin-top: 0px;
+}
+.ourservices{
+    text-align: center;
+
+}
